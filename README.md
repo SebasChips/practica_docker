@@ -5,17 +5,22 @@
 
 ### General Info
 ***
-Este proyecto demuestra cómo ejecutar una aplicación Node.js en un contenedor Docker. Proporciona un servidor HTTP simple que responde con un mensaje al acceder a él.
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+This project demonstrates how to run a Node.js application in a Docker container. It provides a simple HTTP server that responds with a message when accessed.
+***
+Docker Desktop with the container in progress
+![Image text](screenshots/Screenshot_docker.png)
+Web demostration
+![Image text](screenshots/Screenshot_web.png)
+
 ## Technologies
 ***
 A list of technologies used within the project:
 * [Node]: Version 18
 * [JavaScript]
+  
 ## Installation
 ***
-Introducción sobre la instalación: 
+Introduction for installation:  
 ```
 $ git clone https://github.com/SebasChips/practica_docker
 $ cd practica_docker/SuperMegaPractica
