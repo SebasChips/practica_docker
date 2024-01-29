@@ -17,6 +17,9 @@ Web demostration
 A list of technologies used within the project:
 * [Node]: Version 18
 * [JavaScript]
+* [MySql2]
+* [Docker]
+
   
 ## Installation
 ***
@@ -24,6 +27,10 @@ Introduction for installation:
 ```
 $ git clone https://github.com/SebasChips/practica_docker
 $ cd practica_docker/SuperMegaPractica
-$ docker build -t proyecto-docker .
-$ docker run -p 3000:3000 --name proyecto-contenedor proyecto-docker
+$ docker compose up
 ```
+## How to use it?
+To use this useless project there are two options...
+You can go to:
+1.- localhost:3000
+2.- localhost:3000/time
