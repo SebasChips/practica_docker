@@ -30,7 +30,8 @@ $ cd practica_docker/SuperMegaPractica
 $ docker compose up
 ```
 ## How to use it?
+***
 To use this useless project there are two options...
 You can go to:
-1.- localhost:3000
-2.- localhost:3000/time
+1. localhost:3000
+2. localhost:3000/time
