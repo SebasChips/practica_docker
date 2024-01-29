@@ -2,15 +2,11 @@
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
+4. [How to use it?](#operation)
 
 ### General Info
 ***
 This project demonstrates how to run a Node.js application in a Docker container. It provides a simple HTTP server that responds with a message when accessed.
-***
-Docker Desktop with the container in progress
-![Image text](screenshots/Screenshot_docker.png)
-Web demostration
-![Image text](screenshots/Screenshot_web.png)
 
 ## Technologies
 ***
